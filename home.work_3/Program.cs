@@ -26,7 +26,6 @@ namespace home.work_2
             Console.WriteLine("Площадь поверхности цилиндра {0} см2 ", Math.Round(S, 3));
             Console.WriteLine("Объем цилиндра {0} см3 ", Math.Round(V, 3));
             Console.ReadKey();
-
         }
     }
 }
